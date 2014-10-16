@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asb:home|Door43 (asb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asb|d43-asb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asb/archive/master.zip|d43-asb.zip]]
+
+**Recent Changes**
+{{changes>ns = asb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asb|Ethnologue data]]
+
